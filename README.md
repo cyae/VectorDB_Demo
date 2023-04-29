@@ -7,6 +7,10 @@
 2. Save query data in current file as "query.\*"
 3. Node it out!
 
+Known issues
+
+- For more than hundreds of pics, data-reading may be hanged and killed by the OS
+
 Todo
 
 - Implementing streaming-upload to dataset for real-time dataset enrichment
